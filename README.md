@@ -51,7 +51,7 @@ pyinstaller --noconsole --onefile --clean --icon=icon.ico --name=FocusTimer main
 
 **Visual States & Telemetry**
 
-* **S: HH:MM** — Session start time.
+* **START: HH:MM** — Session start time.
 ![FDqH3R2bi6](https://github.com/user-attachments/assets/ba9b34a2-8456-44e0-9c1c-1746cd976cb1)
 ![lUb27tlGqG](https://github.com/user-attachments/assets/eae153ff-0938-4c1b-8783-81739b2904a8)
 * **TASK COMPLETED** — Positive reinforcement display (Success).
