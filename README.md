@@ -52,10 +52,8 @@ pyinstaller --noconsole --onefile --clean --icon=icon.ico --name=FocusTimer main
 **Visual States & Telemetry**
 
 * **S: HH:MM** — Session start time.
-<br>
-
-![0IdobJqAWS](https://github.com/user-attachments/assets/5c72385d-81da-4315-b50d-f9a848f8e862)
-![GsxzlAg3Xd](https://github.com/user-attachments/assets/cf0d380d-6928-4a90-b34b-ef575c67d916)
+![FDqH3R2bi6](https://github.com/user-attachments/assets/ba9b34a2-8456-44e0-9c1c-1746cd976cb1)
+![lUb27tlGqG](https://github.com/user-attachments/assets/eae153ff-0938-4c1b-8783-81739b2904a8)
 * **TASK COMPLETED** — Positive reinforcement display (Success).
 ![FocusTimer_pATXbcYMkL](https://github.com/user-attachments/assets/8122f633-4a98-404f-b089-2f0baed7dfac)
 * **TIME IS UP** — Deadline breach indicator (Danger).
